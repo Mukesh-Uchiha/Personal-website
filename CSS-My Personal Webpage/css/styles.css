@@ -1,0 +1,137 @@
+/**************************Tag**************************/
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  font-size: 75px;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  color: #f05454;
+}
+
+h2 {
+  font-family: 'Homenaje', sans-serif;
+  color: #f05454;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Homenaje', sans-serif;
+  color: #30475e;
+}
+hr{
+  width: 80px;
+  height: 10px;
+  border-style: none;
+  border-top: 8px dotted #f05454;
+
+}
+/*************************class*************************/
+.propic{
+  padding-top: 30px;
+  width: 200px;
+  filter: grayscale(0%);
+}
+.propic:hover{
+  filter: grayscale(50%);
+}
+.subheader {
+  margin-top: 0px;
+}
+.skill-row{
+  width: 50%;
+  position: relative;
+  margin: 100px auto 100px auto;
+  text-align:left;
+  line-height: 2;
+}
+.programming{
+  position: relative;
+
+}
+.top {
+  background-color: #e8e8e8;
+  padding-top: 120px;
+  position: relative;
+  line-height: 1;
+}
+
+.middle {}
+
+.bottom {
+  height: 150px;
+  background-color: #30475e;
+  margin: auto 0px 0px 0px;
+  text-decoration: none;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 60px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.underline {
+  text-decoration: double underline;
+  font-weight: normal;
+}
+
+.btn{
+  text-decoration: none;
+  border-radius: 20px;
+  background-color: #30475e;
+  color: #f05454;
+  margin: 5px 5px;
+  padding: 20px;
+  display: inline-block;
+  cursor: pointer;
+  filter: brightness(100%);
+  font-size: 20px;
+}
+.btn:hover{
+  filter: brightness(140%);
+}
+.programming {
+  width: 25%;
+  float: left;
+  margin: auto 20px auto auto;
+}
+
+.Photoshop {
+  width: 25%;
+  float: right;
+  margin: 20px;
+}
+.footer-link{
+  position: relative;
+  top:20px;
+  color: #f05454;
+  font-size: 25px;
+  font-family: 'Homenaje', sans-serif;
+  text-decoration: none;
+  padding: 20px;
+
+}
+.footer-link:hover{
+  color: white;
+}
+ .htwo{
+   font-size: 80px;
+   margin:100px auto 10px auto;
+ }
+ .hthree{
+   font-size: 30px;
+ }
+.copy{
+  color: white;
+  padding: 25px;
+  font-style: normal;
+
+}
